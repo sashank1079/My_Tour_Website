@@ -1,7 +1,5 @@
 # My_Tour_Website
 
-![image](https://github.com/sashank1079/My_Tour_Website/assets/122720872/70c399ee-c7d4-440f-b0ed-8a1f4c95ea09)
-
 ![image](https://github.com/sashank1079/My_Tour_Website/assets/122720872/ccb21eda-191b-4b5f-927d-f8b787e85d45)
 
 ![image](https://github.com/sashank1079/My_Tour_Website/assets/122720872/4d31d6f1-d4fd-45bc-a1d8-92614386c5ba)
